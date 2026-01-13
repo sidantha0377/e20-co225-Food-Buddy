@@ -51,8 +51,8 @@ approach, Food Buddy contributes to building a more sustainable future by tackli
 food waste effectively.
 
 ## Other Sub Topics
+# Key Highlight
 
-.....
 
 ## Links
 
